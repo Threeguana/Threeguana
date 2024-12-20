@@ -11,3 +11,5 @@ Welcome to my GitHub – the place where ideas turn into reality (or at least so
 - Web Developer
 
 Feel free to check out my work and connect!
+
+![HackerRank Badge](https://hrcdn.net/fcore/assets/badges/java-9d05b1f559.svg)
