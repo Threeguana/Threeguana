@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm Andini
+Welcome to my GitHub – the place where ideas turn into reality (or at least some messy code).
 
-<!--
-**Threeguana/Threeguana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fun Facts About Me  
+- 🚀 I love creating pixel art.  
+- 🎮 Playing games.  
+- 💡 Always up for learning new things.  
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Front-end Developer
+- Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my work and connect!
