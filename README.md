@@ -12,4 +12,4 @@ Welcome to my GitHub – the place where ideas turn into reality (or at least so
 
 Feel free to check out my work and connect!
 
-<img src="https://hrcdn.net/fcore/assets/badges/java-9d05b1f559.svg" width="100" height="100">
+<img src="https://hrcdn.net/fcore/assets/badges/java-9d05b1f559.svg" width="50" height="50">
