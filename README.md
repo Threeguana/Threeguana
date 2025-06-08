@@ -7,8 +7,7 @@ Welcome to my GitHub – the place where ideas turn into reality (or at least so
 - 💡 Always up for learning new things.  
 
 ## 🌱 Currently Learning
-- Front-end Developer
-- Web Developer
+- Javascript language
 
 Feel free to check out my work and connect!
 
