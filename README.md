@@ -1,15 +1,15 @@
-<h1 align="center">✨ Hi there, I'm Andini 👋</h1>
+<h1 align="center">✨ Hi there, I'm Dindin 👋</h1>
 <p align="center"><i>Turning ideas into code and pixels into art 🎨</i></p>
 
 ---
 
 ### 💫 About Me  
-Hey! I'm **Andini**, a creative soul who loves to blend **art, tech, and imagination**.  
+Hey! I'm Andini, a creative soul who loves to blend art, tech, and imagination.  
 When I’m not coding, I’m probably drawing pixel art or getting lost in a good game.  
 
-- 🚀 Passionate about **creating digital art & interactive stuff**  
-- 🎮 Love exploring **game design & indie devs**  
-- 💡 Constantly learning, currently diving into **JavaScript**  
+- 🚀 Passionate about creating digital art & interactive stuff
+- 🎮 Love exploring game design & indie devs
+- 💡 Constantly learning, currently diving into JavaScript
 - 🌸 Motto: *“Code it. Break it. Fix it. Learn from it.”*
 
 ---
@@ -26,8 +26,8 @@ When I’m not coding, I’m probably drawing pixel art or getting lost in a goo
 ---
 
 ### 🌱 Currently Learning  
-- Advanced **JavaScript**
-- A bit of **Game Dev** (HTML canvas, Phaser.js maybe?)
+- Advanced JavaScript
+- A bit of Game Dev (HTML canvas, Phaser.js maybe?)
 
 ---
 
