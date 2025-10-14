@@ -39,13 +39,6 @@ When I’m not coding, I’m probably drawing pixel art or getting lost in a goo
 
 ---
 
-### 🎵 Vibes While Coding  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jmdgcun334mpckkxt7ahgdpeia&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
-</p>
-
----
-
 ### 💬 Let’s Connect  
 <p align="center">
   <a href="https://linkedin.com/in/andinitribuana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
