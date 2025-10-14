@@ -27,6 +27,7 @@ When I’m not coding, I’m probably drawing pixel art or getting lost in a goo
 ### 🌱 Currently Learning  
 - Advanced JavaScript
 - A bit of Game Dev (HTML canvas, Phaser.js maybe?)
+- Trying to became clean coders
 
 ---
 
