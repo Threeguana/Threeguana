@@ -10,7 +10,6 @@ When I’m not coding, I’m probably drawing pixel art or getting lost in a goo
 - 🚀 Passionate about creating digital art & interactive stuff
 - 🎮 Love exploring game design & indie devs
 - 💡 Constantly learning, currently diving into JavaScript
-- 🌸 Motto: *“Code it. Break it. Fix it. Learn from it.”*
 
 ---
 
