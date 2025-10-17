@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/threeguana">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Developer;Pixel+Artist;Gamer;Always+Learning..."/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Always+Learning..."/>
   </a>
 </p>
 
