@@ -41,6 +41,7 @@ When I’m not coding, I’m probably drawing pixel art or getting lost in a goo
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=threeguana&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=threeguana&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=threeguana&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -53,12 +54,4 @@ When I’m not coding, I’m probably drawing pixel art or getting lost in a goo
 </p>
 
 ---
-
-### ✨ Fun Badge  
-<p align="center">
-  <img src="https://hrcdn.net/fcore/assets/badges/java-9d05b1f559.svg" width="70" height="70">
-</p>
-
----
-
 > “Keep building things that make you curious.”
