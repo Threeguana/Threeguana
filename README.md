@@ -1,12 +1,6 @@
 <h1 align="center">✨ Hi there, I'm Dindin 👋</h1>
 <p align="center"><i>Turning ideas into code and pixels into art 🎨</i></p>
 
-<p align="center">
-  <a href="https://github.com/threeguana">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Always+Learning..."/>
-  </a>
-</p>
-
 ---
 
 ### 💫 About Me  
