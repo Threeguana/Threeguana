@@ -39,13 +39,4 @@ When I’m not coding, I’m probably drawing pixel art or getting lost in a goo
 </p>
 
 ---
-
-### 💬 Let’s Connect  
-<p align="center">
-  <a href="https://linkedin.com/in/andinitribuana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:andini.tribuanaa@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/threeguana"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
-
----
 > “Keep building things that make you curious.”
