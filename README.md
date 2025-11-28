@@ -1,27 +1,9 @@
-<h1 align="center">✨ Hi there, I'm Dindin 👋</h1>
-<p align="center"><i>Turning ideas into code and pixels into art 🎨</i></p>
+just a 20 yo weirdo who mostly spending time working on simple coding tasks and learning new technical skills, maybe.
+Focused on improving my programming fundamentals
+Occasionally experiment with basic projects
+Currently learning JavaScript at a steady pace
 
----
-
-### 💫 About Me  
-Hey! I'm Andini, a creative soul who loves to blend art, tech, and imagination.  
-When I’m not coding, I’m probably drawing pixel art or getting lost in a good game.  
-
-- 🚀 Passionate about creating digital art & interactive stuff
-- 🎮 Love exploring game design & indie devs
-- 💡 Constantly learning, currently diving into JavaScript
-
----
-
-### 🧠 Tech & Tools  
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pixel_Art-ff69b4?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-</p>
-
+Nothing too fancy—just trying to get better step by step.
 ---
 
 ### 🌱 Currently Learning  
@@ -39,4 +21,3 @@ When I’m not coding, I’m probably drawing pixel art or getting lost in a goo
 </p>
 
 ---
-> “Keep building things that make you curious.”
