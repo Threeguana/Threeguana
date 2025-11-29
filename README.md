@@ -3,7 +3,6 @@ Focused on improving my programming fundamentals.
 Occasionally experiment with basic projects.
 Currently learning JavaScript at a steady pace.
 
-Nothing too fancy—just trying to get better brick by brick.
 ---
 
 ### 🌱 Currently Learning  
