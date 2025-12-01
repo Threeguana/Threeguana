@@ -1,4 +1,4 @@
-Just a 20 yo weirdo who mostly spending time working on simple coding tasks and learning new technical skills, maybe...
+Just a 20 yo weirdo who mostly spending time ~~playing games~~ working on  simple coding tasks and learning new technical skills, maybe...
 Focused on improving my programming fundamentals.
 Occasionally experiment with basic projects.
 Currently learning JavaScript at a steady pace.
@@ -6,9 +6,8 @@ Currently learning JavaScript at a steady pace.
 ---
 
 ### 🌱 Currently Learning  
-- Advanced JavaScript
+- beginner JavaScript
 - A bit of Game Dev (HTML canvas, Phaser.js maybe?)
-- Trying to became clean coders
 
 ---
 
