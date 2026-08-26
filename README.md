@@ -5,12 +5,6 @@ Currently learning JavaScript at a steady pace.
 
 ---
 
-### 🌱 Currently Learning  
-- beginner JavaScript
-- A bit of Game Dev (HTML canvas, Phaser.js maybe?)
-
----
-
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=threeguana&show_icons=true&theme=tokyonight" height="160"/>
