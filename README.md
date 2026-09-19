@@ -1,6 +1,6 @@
-<h1 align="center">✨ Hi! , Im Andin</h1>
+<h1 align="center">Hewwo!, Im Andin</h1>
 <h3 align="center">IT Student | Front-end Developer </h3>
-<!-- <p align="center">.</p> -->
+<p align="center">I love learn new things and contributing to open-source project!</p>
 
 <br>
 
