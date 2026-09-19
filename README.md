@@ -1,15 +1,27 @@
+<h1 align="center">✨ Hi! , Im Andin</h1>
+<h3 align="center">IT Student | Front-end Developer </h3>
+<!-- <p align="center">.</p> -->
 
-### 📊 GitHub Stats
+<br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Threeguana&show_icons=true&theme=tokyonight" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Threeguana&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
+### My Tech Stacks :
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,python,supabase,js,laravel,react,vue,docker,flutter" alt="Tech Stacks" />
 </p>
 
-### 🐍 Contribution Activity
+<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/threeguana/threeguana/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/threeguana/threeguana/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/threeguana/threeguana/output/github-contribution-grid-snake.svg">
-</picture>
+### My Streak :
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Threeguana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Threeguana/Threeguana/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Threeguana/Threeguana/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Threeguana/Threeguana/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
