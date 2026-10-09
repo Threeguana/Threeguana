@@ -14,7 +14,7 @@
 <img src="https://skillicons.dev/icons?i=react,vue,flutter,bootstrap" alt="Frameworks and Libraries" />
 
 #### Databases
-<img src="https://skillicons.dev/icons?i=postgres,supabase" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mysql,firebase" alt="Databases" />
 
 #### Networking & Infrastructure
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
@@ -24,7 +24,7 @@
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/5832/5832416.png" width="20" height="20" alt="Currently Learning" /> Currently Learning
 
-<img src="https://skillicons.dev/icons?i=laravel,docker,mysql" alt="Currently Learning" />
+<img src="https://skillicons.dev/icons?i=laravel,docker,postman,tailwind" alt="Currently Learning" />
 
 <br>
 
